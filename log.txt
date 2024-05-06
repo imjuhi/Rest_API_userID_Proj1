@@ -1,0 +1,12 @@
+1714959504657" GET: /api/users
+1714971399131: ::1 GET: /api/users
+
+1714971443838: ::1 GET: /api/users
+
+1714974551324: ::1 POST: /api/users
+
+1714978825124: ::1 POST: /api/users
+
+1714978832656: ::1 POST: /api/users
+
+1714979055112: ::1 GET: /api/users/200000
